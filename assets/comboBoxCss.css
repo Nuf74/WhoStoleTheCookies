@@ -1,0 +1,14 @@
+#forcombo{
+direction: rtl;
+font-family: 'rubik';
+font-size: 25px;
+color:  #341909;
+border-color: #1F466B;
+border-style: solid;
+border-width: 2.5px;
+border-radius: 8px;
+background-color: #77C0D9;
+}
+#forcombo >option{
+color: #341909;
+background-color: #F8C98B;
